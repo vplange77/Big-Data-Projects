@@ -13,7 +13,8 @@ The cleaned data was loaded into R and loaded several packages such as “ggplot
 Our first analysis was to determine the value of homes within the 5 boroughs of New York. 
 As seen in Fig 1.3 below, the x axis shows the different boroughs and the y values shows the different z scores per region.
 
-
+![image](https://user-images.githubusercontent.com/31625655/45196076-84b9b880-b228-11e8-908c-fbbb3929adf7.png)
+<img src="https://user-images.githubusercontent.com/31625655/45196076-84b9b880-b228-11e8-908c-fbbb3929adf7.png)" width="200" height="200" align="center" />
 
  
 			
