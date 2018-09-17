@@ -1,4 +1,4 @@
-## Data-Management-Big-Data-Projects
+## Graph Analytics
 
 Big Data is essential for organizations to enable them gain deeper insights quickly that lead to better decisions and strategic business applications. According to SaS article, it says that the importance of big data doesn’t revolve around how much data you have, but what you do with it. You can take data from any source and analyze it to uncover insights that enable cost and time reductions, new product development, optimized offerings and smart decision making (Big Data What it is and Why it Matters, n.d.).
 
