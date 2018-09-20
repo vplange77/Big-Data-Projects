@@ -25,4 +25,4 @@ It lists the nodes or discrete entities as well as the connection between those 
 
 Graph analytics is very powerful in uncovering valuable insights about data, optimize processes and improve financial opportunities. As a data analyst, the goal is to not only uncover correlations and patterns within data but to be able to make effective data-driven decisions from the insights. Graph analytics supports the ability to add new data sources and develop new relationships within the data in order to answer arising queries. 
 
-# (Visual developed in Gephi)
+# (Visual developed in Gephi from Nashville Meetup Data, retrieved from Kaggle)
